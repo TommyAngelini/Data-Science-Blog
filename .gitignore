@@ -22,6 +22,4 @@ pnpm-lock.yaml
 
 # Project
 TODO.md
-public/
-cache/
 *.log
